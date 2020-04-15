@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class NumberWizard : MonoBehaviour
 {
-   
+    // this will appear on Incpector of Unity
     [SerializeField] int max;
     [SerializeField] int min;
     [SerializeField] TextMeshProUGUI guessText;
