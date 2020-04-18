@@ -29,7 +29,7 @@ public class NumberWizard : MonoBehaviour
 
     void NextGuess()
     {
-        if (guess > guess || guess < 1000)
+        if (guess > guess || guess < 100)
         {
             guess = Random.Range(min, max + 1);
             guessText.text = guess.ToString();

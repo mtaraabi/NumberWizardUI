@@ -679,7 +679,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91a5f0eb2b56b4f08a4ad56146186470, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  max: 1000
+  max: 100
   min: 1
   guessText: {fileID: 1959014101}
   NumberOfGuessText: {fileID: 1514461758}
