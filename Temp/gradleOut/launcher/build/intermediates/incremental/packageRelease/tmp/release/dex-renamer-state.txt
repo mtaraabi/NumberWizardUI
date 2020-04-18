@@ -1,0 +1,4 @@
+#Sat Apr 18 10:07:22 AST 2020
+base.0=/Users/MTaraabi/Dropbox/Repos/unity/intro_setup/Number Wizard UI 2/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
